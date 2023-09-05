@@ -1,3 +1,5 @@
 hi iam new to this repository
 i created two repos one is public and another is private.
  i did changes and running webhook for this
+connect it to jenkins
+push the command to jenkins will conect the bulid.
